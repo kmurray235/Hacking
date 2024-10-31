@@ -19,4 +19,8 @@ This Python script simulates a humorous hacking sequence. It gives the illusion 
 
 **Access the folder and run the file** by running the following commands in the terminal
 -```cd hacking```
+<<<<<<< HEAD
 -```python hacking.py```
+=======
+-```python hacking.py```
+>>>>>>> e0b96dd5ba27d8ff9a066877e27809c9b7c85386
